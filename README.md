@@ -1,4 +1,4 @@
-# React-movies-tickets-store
+# DevConnector
 
 This is a MERN stack application. Small social network app that includes authentication, profiles and forum posts. With React, Redux, JWT authentication. (Desktop + Mobile)
 
