@@ -2,6 +2,8 @@
 
 This is a MERN stack application. Small social network app that includes authentication, profiles and forum posts. With React, Redux, JWT authentication. (Desktop + Mobile)
 
+> [SEE PROJECT](https://dev-connector-app-1.herokuapp.com/)
+
 ## Technologies
 
 - React.js
@@ -20,7 +22,7 @@ This is a MERN stack application. Small social network app that includes authent
 ## Setup
 
 ```bash
-git clone https://github.com/kulinar310/DevConnector.git
+git clone https://github.com/alexkulikov101/DevConnector.git
 cd DevConnector
 npm install
 npm run dev
